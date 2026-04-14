@@ -10,7 +10,7 @@ HF space link: https://huggingface.co/spaces/nayadrika/1rag_qa
 - **Document Upload** – Supports `.txt`, `.pdf`, `.docx`, `.md`, and `.csv` files.
 - **Context-Aware Question Answering** – Uses RAG to provide accurate answers based on document content.
 - **Document Summarization** – Generates concise summaries capturing key concepts.
-- **Semantic Search** – Employs Sentence Transformers for efficient document retrieval.
+- **Semantic Search** – Employs Utilizes the `sentence-transformers/all-MiniLM-L6-v2` embedding model from Hugging Face to enable efficient document retrieval.
 - **Interactive UI** – Built with Gradio for an easy-to-use experience.
 - **Cloud Deployment** – Hosted on Hugging Face Spaces.
 - **Secure Token Handling** – Utilizes Hugging Face secrets for authentication.
