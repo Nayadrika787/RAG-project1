@@ -2,6 +2,7 @@
 
 An end-to-end **Retrieval-Augmented Generation (RAG)** application that allows users to upload documents and interact with them through **context-aware question answering** and **concise summarization**. The project is deployed on **Hugging Face Spaces** with an intuitive **Gradio** interface.
 
+HF space link: https://huggingface.co/spaces/nayadrika/1rag_qa
 ---
 
 ## Features
